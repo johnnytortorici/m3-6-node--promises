@@ -33,4 +33,4 @@ getPositionFromAddress(
 // Colosseum
 getPositionFromAddress(
   'Piazza del Colosseo, 1, 00184 Roma RM, Italy'
-).then((response) => console.log(response)); // { lat: 48.8582602, lng: 2.2944991 }
+).then((response) => console.log(response)); // { lat: 41.8915062, lng: 12.4925537 }
